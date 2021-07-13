@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/order-Food-App/static/css/main.fef0a3fd.chunk.css",
-    "main.js": "/order-Food-App/static/js/main.ca01b031.chunk.js",
-    "main.js.map": "/order-Food-App/static/js/main.ca01b031.chunk.js.map",
-    "runtime-main.js": "/order-Food-App/static/js/runtime-main.08d7e537.js",
-    "runtime-main.js.map": "/order-Food-App/static/js/runtime-main.08d7e537.js.map",
-    "static/js/2.052434f4.chunk.js": "/order-Food-App/static/js/2.052434f4.chunk.js",
-    "static/js/2.052434f4.chunk.js.map": "/order-Food-App/static/js/2.052434f4.chunk.js.map",
-    "static/js/3.e540f02b.chunk.js": "/order-Food-App/static/js/3.e540f02b.chunk.js",
-    "static/js/3.e540f02b.chunk.js.map": "/order-Food-App/static/js/3.e540f02b.chunk.js.map",
+    "main.js": "/order-Food-App/static/js/main.92787d9a.chunk.js",
+    "main.js.map": "/order-Food-App/static/js/main.92787d9a.chunk.js.map",
+    "runtime-main.js": "/order-Food-App/static/js/runtime-main.00073403.js",
+    "runtime-main.js.map": "/order-Food-App/static/js/runtime-main.00073403.js.map",
+    "static/js/2.29eb7461.chunk.js": "/order-Food-App/static/js/2.29eb7461.chunk.js",
+    "static/js/2.29eb7461.chunk.js.map": "/order-Food-App/static/js/2.29eb7461.chunk.js.map",
+    "static/js/3.85008e98.chunk.js": "/order-Food-App/static/js/3.85008e98.chunk.js",
+    "static/js/3.85008e98.chunk.js.map": "/order-Food-App/static/js/3.85008e98.chunk.js.map",
     "index.html": "/order-Food-App/index.html",
     "static/css/main.fef0a3fd.chunk.css.map": "/order-Food-App/static/css/main.fef0a3fd.chunk.css.map",
-    "static/js/2.052434f4.chunk.js.LICENSE.txt": "/order-Food-App/static/js/2.052434f4.chunk.js.LICENSE.txt",
-    "static/media/DangoTea.c9388782.jpg": "/order-Food-App/static/media/DangoTea.c9388782.jpg"
+    "static/js/2.29eb7461.chunk.js.LICENSE.txt": "/order-Food-App/static/js/2.29eb7461.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.08d7e537.js",
-    "static/js/2.052434f4.chunk.js",
+    "static/js/runtime-main.00073403.js",
+    "static/js/2.29eb7461.chunk.js",
     "static/css/main.fef0a3fd.chunk.css",
-    "static/js/main.ca01b031.chunk.js"
+    "static/js/main.92787d9a.chunk.js"
   ]
 }
