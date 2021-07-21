@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/order-Food-App/static/css/main.2d62dc2c.chunk.css",
-    "main.js": "/order-Food-App/static/js/main.1f5d1216.chunk.js",
-    "main.js.map": "/order-Food-App/static/js/main.1f5d1216.chunk.js.map",
+    "main.js": "/order-Food-App/static/js/main.f1882bc7.chunk.js",
+    "main.js.map": "/order-Food-App/static/js/main.f1882bc7.chunk.js.map",
     "runtime-main.js": "/order-Food-App/static/js/runtime-main.23e64675.js",
     "runtime-main.js.map": "/order-Food-App/static/js/runtime-main.23e64675.js.map",
     "static/js/2.cec8c65f.chunk.js": "/order-Food-App/static/js/2.cec8c65f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.23e64675.js",
     "static/js/2.cec8c65f.chunk.js",
     "static/css/main.2d62dc2c.chunk.css",
-    "static/js/main.1f5d1216.chunk.js"
+    "static/js/main.f1882bc7.chunk.js"
   ]
 }
