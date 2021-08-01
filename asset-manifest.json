@@ -1,22 +1,27 @@
 {
   "files": {
     "main.css": "/order-Food-App/static/css/main.6fb964af.chunk.css",
-    "main.js": "/order-Food-App/static/js/main.81db70f1.chunk.js",
-    "main.js.map": "/order-Food-App/static/js/main.81db70f1.chunk.js.map",
-    "runtime-main.js": "/order-Food-App/static/js/runtime-main.49f88a11.js",
-    "runtime-main.js.map": "/order-Food-App/static/js/runtime-main.49f88a11.js.map",
-    "static/js/2.7d41bfa2.chunk.js": "/order-Food-App/static/js/2.7d41bfa2.chunk.js",
-    "static/js/2.7d41bfa2.chunk.js.map": "/order-Food-App/static/js/2.7d41bfa2.chunk.js.map",
-    "static/js/3.80d673ef.chunk.js": "/order-Food-App/static/js/3.80d673ef.chunk.js",
-    "static/js/3.80d673ef.chunk.js.map": "/order-Food-App/static/js/3.80d673ef.chunk.js.map",
+    "main.js": "/order-Food-App/static/js/main.d9d66a51.chunk.js",
+    "main.js.map": "/order-Food-App/static/js/main.d9d66a51.chunk.js.map",
+    "runtime-main.js": "/order-Food-App/static/js/runtime-main.40796236.js",
+    "runtime-main.js.map": "/order-Food-App/static/js/runtime-main.40796236.js.map",
+    "static/js/2.c278e835.chunk.js": "/order-Food-App/static/js/2.c278e835.chunk.js",
+    "static/js/2.c278e835.chunk.js.map": "/order-Food-App/static/js/2.c278e835.chunk.js.map",
+    "static/js/3.7f067a77.chunk.js": "/order-Food-App/static/js/3.7f067a77.chunk.js",
+    "static/js/3.7f067a77.chunk.js.map": "/order-Food-App/static/js/3.7f067a77.chunk.js.map",
     "index.html": "/order-Food-App/index.html",
     "static/css/main.6fb964af.chunk.css.map": "/order-Food-App/static/css/main.6fb964af.chunk.css.map",
-    "static/js/2.7d41bfa2.chunk.js.LICENSE.txt": "/order-Food-App/static/js/2.7d41bfa2.chunk.js.LICENSE.txt"
+    "static/js/2.c278e835.chunk.js.LICENSE.txt": "/order-Food-App/static/js/2.c278e835.chunk.js.LICENSE.txt",
+    "static/media/192.png": "/order-Food-App/static/media/192.c974778c.png",
+    "static/media/kon.jpeg": "/order-Food-App/static/media/kon.2f88dc9c.jpeg",
+    "static/media/konEdit.jpeg": "/order-Food-App/static/media/konEdit.a3bb0fa0.jpeg",
+    "static/media/taiyaki.png": "/order-Food-App/static/media/taiyaki.0c83f871.png",
+    "static/media/taiyakiEdit.png": "/order-Food-App/static/media/taiyakiEdit.fda4eed1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.49f88a11.js",
-    "static/js/2.7d41bfa2.chunk.js",
+    "static/js/runtime-main.40796236.js",
+    "static/js/2.c278e835.chunk.js",
     "static/css/main.6fb964af.chunk.css",
-    "static/js/main.81db70f1.chunk.js"
+    "static/js/main.d9d66a51.chunk.js"
   ]
 }
